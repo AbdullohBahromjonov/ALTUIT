@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Geografiya",
+        "startTime": "8:30",
+        "endTime": "9:50",
+        "room": "-",
+        "teacher": "-"
+    },
+    {
+        "name": "Algebra",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "room": "311",
+        "teacher": "Masimova G.M."
+    },
+    {
+        "name": "Kimyo",
+        "startTime": "11:50",
+        "endTime": "13:10",
+        "room": "101",
+        "teacher": "-"
+    }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Jaxon tarixi",
+    "teacher": "Muzaffarov M",
+    "room": "302",
+    "startTime": "8:30",
+    "endTime": "9:50"
+  },
+  {
+    "name": "Ingliz tili",
+    "teacher": "Niyazaliyeva Sh.",
+    "room": "303",
+    "startTime": "10:00",
+    "endTime": "11:20"
+  },
+  {
+    "name": "Geometriya",
+    "teacher": "Fayzullayev Sh",
+    "room": "307",
+    "startTime": "11:50",
+    "endTime": "13:10"
+  }
+]

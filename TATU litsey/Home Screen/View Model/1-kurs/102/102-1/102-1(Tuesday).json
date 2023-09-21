@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Rus tili",
+        "startTime": "8:30",
+        "endTime": "9:50",
+        "room": "205",
+        "teacher": "Tadjibayeva G.K."
+    },
+    {
+        "name": "O'zbek tili",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "room": "103",
+        "teacher": "Yodgorova G.R."
+    },
+    {
+        "name": "Fizika",
+        "startTime": "11:50",
+        "endTime": "13:10",
+        "room": "215",
+        "teacher": "Miraxmedov M.N."
+    }
+]

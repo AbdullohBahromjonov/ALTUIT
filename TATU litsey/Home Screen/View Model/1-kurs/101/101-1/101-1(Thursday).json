@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Biologiya",
+        "startTime": "8:30",
+        "endTime": "9:50",
+        "room": "205",
+        "teacher": "Maqsudova N.T."
+    },
+    {
+        "name": "Informatika",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "room": "Sagdiyev S.",
+        "teacher": "216"
+    },
+    {
+        "name": "Fizika",
+        "startTime": "11:50",
+        "endTime": "13:10",
+        "room": "215",
+        "teacher": "Miraxmedov M.N."
+    }
+]

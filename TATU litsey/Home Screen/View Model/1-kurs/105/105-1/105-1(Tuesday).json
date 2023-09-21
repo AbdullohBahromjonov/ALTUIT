@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Tarbiya",
+    "startTime": "8:30",
+    "endTime": "9:50",
+    "room": "213",
+    "teacher": "Xoliqova G"
+  },
+  {
+    "name": "Algebra",
+    "startTime": "10:00",
+    "endTime": "11:20",
+    "room": "309",
+    "teacher": "Sapayeva S."
+  },
+  {
+    "name": "Jismoniy tarbiya",
+    "startTime": "11:50",
+    "endTime": "13:10",
+    "room": "sport zal",
+    "teacher": "Alimov Sh"
+  }
+]

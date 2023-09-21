@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Ingliz tili",
+        "startTime": "8:30",
+        "endTime": "9:50",
+        "room": "359",
+        "teacher": "Artikova I."
+    },
+    {
+        "name": "Algebra",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "room": "308",
+        "teacher": "Abdurashitov R.A."
+    },
+    {
+        "name": "Fizika",
+        "startTime": "11:50",
+        "endTime": "13:10",
+        "room": "202",
+        "teacher": "Akbarov J.M."
+    }
+]

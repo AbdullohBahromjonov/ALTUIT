@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Fizika",
+        "startTime": "8:30",
+        "endTime": "9:50",
+        "room": "202",
+        "teacher": "Akbarov J.M."
+    },
+    {
+        "name": "Veb dasturlash",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "room": "219",
+        "teacher": "Raupova Z."
+    },
+    {
+        "name": "Algebra",
+        "startTime": "11:50",
+        "endTime": "13:10",
+        "room": "218",
+        "teacher": "Rahmatova G.A."
+    },
+    {
+        "name": "O'zbek tili",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "room": "103",
+        "teacher": "Yodgorova G.R."
+    }
+]

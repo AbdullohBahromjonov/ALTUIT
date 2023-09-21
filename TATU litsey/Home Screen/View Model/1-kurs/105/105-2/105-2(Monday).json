@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Algebra",
+    "startTime": "8:30",
+    "endTime": "9:50",
+    "room": "309",
+    "teacher": "Sapayeva S."
+  },
+  {
+    "name": "Fizika",
+    "startTime": "10:00",
+    "endTime": "11:20",
+    "room": "204",
+    "teacher": "Jumanov A.A."
+  },
+  {
+    "name": "Geometriya",
+    "startTime": "11:50",
+    "endTime": "13:10",
+    "room": "208",
+    "teacher": "Yo’ldashev B."
+  }
+]

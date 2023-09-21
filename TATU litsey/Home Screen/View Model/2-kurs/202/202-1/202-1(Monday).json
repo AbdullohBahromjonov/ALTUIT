@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Fizika",
+        "startTime": "8:30",
+        "endTime": "9:50",
+        "room": "204",
+        "teacher": "Jumanov A.A."
+    },
+    {
+        "name": "Kasbiy ta'lim",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "room": "217",
+        "teacher": "Rahmonov Sh."
+    },
+    {
+        "name": "Algebra",
+        "startTime": "11:50",
+        "endTime": "13:10",
+        "room": "301",
+        "teacher": "Rahmatova G.A."
+    },
+    {
+        "name": "Ingliz tili",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "room": "307",
+        "teacher": "Soatmurodov R."
+    }
+]

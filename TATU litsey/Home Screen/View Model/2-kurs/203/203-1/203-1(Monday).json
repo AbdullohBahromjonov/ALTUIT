@@ -1,0 +1,30 @@
+[
+    {
+        "name": "CH.Q.B.T.",
+        "startTime": "8:30",
+        "endTime": "9:50",
+        "room": "207",
+        "teacher": "Xamdamov I.E."
+    },
+    {
+        "name": "Algebra",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "room": "308",
+        "teacher": "Abdurashitov R.A."
+    },
+    {
+        "name": "Fizika",
+        "startTime": "11:50",
+        "endTime": "13:10",
+        "room": "204",
+        "teacher": "Jumanov A.A."
+    },
+    {
+        "name": "O'zbekiston tarixi",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "room": "302",
+        "teacher": "Muzaffarov M."
+    }
+]

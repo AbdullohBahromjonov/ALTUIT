@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Fizika",
+        "startTime": "8:30",
+        "endTime": "9:50",
+        "room": "202",
+        "teacher": "Akbarov J.M."
+    },
+    {
+        "name": "Geometriya",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "room": "306",
+        "teacher": "To'ymetov Sh.Sh."
+    },
+    {
+        "name": "Algebra",
+        "startTime": "11:50",
+        "endTime": "13:10",
+        "room": "308",
+        "teacher": "Abdurashitov R.A."
+    },
+    {
+        "name": "Informatika",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "room": "216",
+        "teacher": "Sagdiyev S."
+    }
+]

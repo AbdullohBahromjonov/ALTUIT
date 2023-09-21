@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Geometriya",
+        "startTime": "8:30",
+        "endTime": "9:50",
+        "room": "308",
+        "teacher": "Utepova O."
+    },
+    {
+        "name": "Jismoniy tarbiya",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "room": "sport zal",
+        "teacher": "-"
+    },
+    {
+        "name": "Informatika",
+        "startTime": "11:50",
+        "endTime": "13:10",
+        "room": "216",
+        "teacher": "Sagdiev S."
+    }
+]

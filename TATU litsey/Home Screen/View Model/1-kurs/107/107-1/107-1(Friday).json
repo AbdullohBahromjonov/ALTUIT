@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Geometriya",
+    "teacher": "Fayzullayev Sh",
+    "room": "313",
+    "startTime": "8:30",
+    "endTime": "9:50"
+  },
+  {
+    "name": "Algebra",
+    "teacher": "Rožigulov S",
+    "room": "102",
+    "startTime": "10:00",
+    "endTime": "11:20"
+  },
+  {
+    "name": "Geografiya",
+    "teacher": "-",
+    "room": "101",
+    "startTime": "11:50",
+    "endTime": "13:10"
+  }
+]

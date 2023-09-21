@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Ingliz tili",
+    "startTime": "8:30",
+    "endTime": "9:50",
+    "room": "307",
+    "teacher": "Soatmurodov R."
+  },
+  {
+    "name": "Geografiya",
+    "startTime": "10:00",
+    "endTime": "11:20",
+    "room": "101",
+    "teacher": "-"
+  },
+  {
+    "name": "Geometriya",
+    "startTime": "11:50",
+    "endTime": "13:10",
+    "room": "309",
+    "teacher": "Sapayeva S."
+  }
+]

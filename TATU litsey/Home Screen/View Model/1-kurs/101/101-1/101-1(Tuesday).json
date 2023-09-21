@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Ingliz tili",
+        "startTime": "8:30",
+        "endTime": "9:50",
+        "room": "304",
+        "teacher": "Djalolova G.T."
+    },
+    {
+        "name": "Jismoniy tarbiya",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "room": "sport zal",
+        "teacher": "-"
+    },
+    {
+        "name": "Geometriya",
+        "startTime": "11:50",
+        "endTime": "13:10",
+        "room": "311",
+        "teacher": "Masimova G.M."
+    }
+]

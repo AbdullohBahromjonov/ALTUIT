@@ -1,0 +1,51 @@
+[
+    {
+        "weekday": "Dushanba",
+        "subjects": [
+            "Jaxon tarixi",
+            "Geometriya",
+            "Ingliz tili"
+        ]
+    },
+    {
+        "weekday": "Seshanba",
+        "subjects": [
+            "Geometriya",
+            "Algebra",
+            "Geografiya"
+        ]
+    },
+    {
+        "weekday": "Chorshanba",
+        "subjects": [
+            "Rus tili",
+            "Ingliz tili",
+            "Algebra",
+            "Informatika"
+        ]
+    },
+    {
+        "weekday": "Payshanba",
+        "subjects": [
+            "Ona tili",
+            "Algebra",
+            "Tarbiya"
+        ]
+    },
+    {
+        "weekday": "Juma",
+        "subjects": [
+            "Ingliz tili",
+            "Nemis tili",
+            "Jismoniy tarbiya"
+        ]
+    },
+    {
+        "weekday": "Shanba",
+        "subjects": [
+            "Biologiya",
+            "Fizika",
+            "Kimyo"
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Algebra",
+    "teacher": "Rožigulov S",
+    "room": "102",
+    "startTime": "8:30",
+    "endTime": "9:50"
+  },
+  {
+    "name": "Geometriya",
+    "teacher": "Fayzullayev Sh",
+    "room": "311",
+    "startTime": "10:00",
+    "endTime": "11:20"
+  },
+  {
+    "name": "Geografiya",
+    "teacher": "-",
+    "room": "101",
+    "startTime": "11:50",
+    "endTime": "13:10"
+  },
+  {
+    "name": "Rus tili",
+    "teacher": "Bekmetova N.B.",
+    "room": "104",
+    "startTime": "13:20",
+    "endTime": "14:40"
+  }
+]

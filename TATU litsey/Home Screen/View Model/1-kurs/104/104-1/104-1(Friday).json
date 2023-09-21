@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Ingiliz tili",
+    "startTime": "8:30",
+    "endTime": "9:50",
+    "room": "307",
+    "teacher": "Soatmurodov R."
+  },
+  {
+    "name": "Rus tili",
+    "startTime": "10:00",
+    "endTime": "11:20",
+    "room": "104",
+    "teacher": "Bekmetova N.B."
+  },
+  {
+    "name": "Algebra",
+    "startTime": "11:50",
+    "endTime": "13:10",
+    "room": "208",
+    "teacher": "Yo’ldashev B."
+  }
+]

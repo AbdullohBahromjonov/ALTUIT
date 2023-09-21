@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Ingiliz tili",
+    "startTime": "8:30",
+    "endTime": "9:50",
+    "room": "218",
+    "teacher": "Artikova I"
+  },
+  {
+    "name": "Fizika",
+    "startTime": "10:00",
+    "endTime": "11:20",
+    "room": "201",
+    "teacher": "Azimova G."
+  },
+  {
+    "name": "Kimyo",
+    "startTime": "11:50",
+    "endTime": "13:10",
+    "room": "101",
+    "teacher": "-"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Ingliz tili",
+    "startTime": "8:30",
+    "endTime": "9:50",
+    "room": "303",
+    "teacher": "Niyazaliyeva Sh"
+  },
+  {
+    "name": "Algebra",
+    "startTime": "10:00",
+    "endTime": "11:20",
+    "room": "102",
+    "teacher": "Ro`ziqulov S."
+  },
+  {
+    "name": "Jismoniy tarbiya",
+    "startTime": "11:50",
+    "endTime": "13:10",
+    "room": "sport zal",
+    "teacher": "Alimov Sh"
+  }
+]

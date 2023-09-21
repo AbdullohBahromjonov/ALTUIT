@@ -1,0 +1,23 @@
+[
+  {
+    "name": "O`zbek tili",
+    "startTime": "8:30",
+    "endTime": "9:50",
+    "teacher": "Yodgorova G.R.",
+    "room": "103"
+  },
+  {
+    "name": "Kimyo",
+    "startTime": "10:00",
+    "endTime": "11:20",
+    "teacher": "-",
+    "room": "101"
+  },
+  {
+    "name": "Jismoniy Tarbiya",
+    "startTime": "11:50",
+    "endTime": "13:10",
+    "teacher": "Alimov Sh",
+    "room": "sport zal"
+  }
+]

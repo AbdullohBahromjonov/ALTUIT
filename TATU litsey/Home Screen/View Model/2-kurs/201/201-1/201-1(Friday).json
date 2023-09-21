@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Fizika",
+        "startTime": "8:30",
+        "endTime": "9:50",
+        "room": "202",
+        "teacher": "Akbaro J.M."
+    },
+    {
+        "name": "Adabiyot",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "room": "205",
+        "teacher": "Tadjibayeva G.K."
+    },
+    {
+        "name": "Algebra",
+        "startTime": "11:50",
+        "endTime": "13:10",
+        "room": "308",
+        "teacher": "Abdurashitov R.A."
+    }
+]

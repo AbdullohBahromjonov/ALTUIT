@@ -1,0 +1,51 @@
+[
+    {
+        "weekday": "Dushanba",
+        "subjects": [
+            "Rus tili",
+            "Algebra",
+            "Ingliz tili",
+            "Adabiyot"
+        ]
+    },
+    {
+        "weekday": "Seshanba",
+        "subjects": [
+            "Algebra",
+            "Kasbiy ta'lim",
+            "Ingliz tili"
+        ]
+    },
+    {
+        "weekday": "Chorshanba",
+        "subjects": [
+            "Ingliz tili",
+            "O'zbek tili",
+            "Geometriya"
+        ]
+    },
+    {
+        "weekday": "Payshanba",
+        "subjects": [
+            "Veb dastrulash",
+            "Nemis tili",
+            "CH.Q.B.T."
+        ]
+    },
+    {
+        "weekday": "Juma",
+        "subjects": [
+            "O'zbek tili",
+            "Ingliz tili",
+            "Algebra"
+        ]
+    },
+    {
+        "weekday": "Shanba",
+        "subjects": [
+            "Geometriya",
+            "Ingliz tili",
+            "Informatika"
+        ]
+    }
+]

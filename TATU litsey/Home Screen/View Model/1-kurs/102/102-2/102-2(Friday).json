@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Algebra",
+        "startTime": "8:30",
+        "endTime": "9:50",
+        "room": "306",
+        "teacher": "To'ymetov Sh.Sh."
+    },
+    {
+        "name": "Ingliz tili",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "room": "103",
+        "teacher": "Artikova I."
+    },
+    {
+        "name": "Geografiya",
+        "startTime": "11:50",
+        "endTime": "13:10",
+        "room": "207",
+        "teacher": "-"
+    }
+]

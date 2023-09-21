@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Ona tili",
+    "startTime": "8:30",
+    "endTime": "9:50",
+    "room": "301",
+    "teacher": "Mamarizayeva D.E"
+  },
+  {
+    "name": "Algebra",
+    "startTime": "10:00",
+    "endTime": "11:20",
+    "room": "102",
+    "teacher": "Ro`ziqulov S."
+  },
+  {
+    "name": "Tarbiya ",
+    "startTime": "11:50",
+    "endTime": "13:10",
+    "room": "302",
+    "teacher": "Xoliqova G"
+  }
+]
