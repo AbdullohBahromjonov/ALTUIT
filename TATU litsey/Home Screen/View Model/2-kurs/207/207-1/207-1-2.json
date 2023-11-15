@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Adabiyot",
+        "startTime": "8:30",
+        "endTime": "9:50",
+        "room": "217",
+        "teacher": "Xudoyorova I.B."
+    },
+    {
+        "name": "Algebra",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "room": "313",
+        "teacher": "Abdullayev N."
+    },
+    {
+        "name": "Ona tili",
+        "startTime": "11:50",
+        "endTime": "13:10",
+        "room": "301",
+        "teacher": "Mamarizayeva D.E."
+    }
+]

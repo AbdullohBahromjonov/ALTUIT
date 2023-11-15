@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Geometriya",
+        "startTime": "8:30",
+        "endTime": "9:50",
+        "room": "306",
+        "teacher": "To'ymetov Sh.Sh."
+    },
+    {
+        "name": "Ingliz tili",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "room": "304",
+        "teacher": "Djalolova G.T."
+    },
+    {
+        "name": "Informatika",
+        "startTime": "11:50",
+        "endTime": "13:10",
+        "room": "216",
+        "teacher": "Sagdiev S."
+    }
+]

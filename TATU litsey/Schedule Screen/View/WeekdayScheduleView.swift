@@ -19,6 +19,7 @@ struct WeekdayScheduleView: View {
                 ForEach(day.subjects, id: \.self) { subject in
                     Text(subject)
                         .frame(height: 40)
+                        .foregroundColor(.black)
                     Divider()
                         .frame(height: 2)
                         .overlay {
@@ -31,6 +32,7 @@ struct WeekdayScheduleView: View {
             .frame(maxWidth: .infinity)
             .background(
                 RoundedRectangle(cornerRadius: 10)
+                    .foregroundColor(.white)
             )
         }
         .padding()

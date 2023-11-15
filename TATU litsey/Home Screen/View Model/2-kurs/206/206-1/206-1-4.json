@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Geometriya",
+        "startTime": "8:30",
+        "endTime": "9:50",
+        "room": "102",
+        "teacher": "Ro'ziqulov S."
+    },
+    {
+        "name": "Adabiyot",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "room": "311",
+        "teacher": "Xudoyorova I.B."
+    },
+    {
+        "name": "Nemis tili",
+        "startTime": "11:50",
+        "endTime": "13:10",
+        "room": "220",
+        "teacher": "Turdiyeva M."
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Kasbiy ta'lim",
+        "startTime": "8:30",
+        "endTime": "9:50",
+        "room": "216",
+        "teacher": "Sagdiyev S."
+    },
+    {
+        "name": "Ingliz tili",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "room": "102",
+        "teacher": "Abduxalilova K."
+    },
+    {
+        "name": "Algebra",
+        "startTime": "11:50",
+        "endTime": "13:10",
+        "room": "309",
+        "teacher": "Sapayeva S."
+    }
+]

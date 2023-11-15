@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Veb dasturlash",
+        "startTime": "8:30",
+        "endTime": "9:50",
+        "room": "219",
+        "teacher": "Raupov Z."
+    },
+    {
+        "name": "Nemis tili",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "room": "220",
+        "teacher": "Turdiyeva M."
+    },
+    {
+        "name": "CH.Q.B.T.",
+        "startTime": "11:50",
+        "endTime": "13:10",
+        "room": "207",
+        "teacher": "Xamdamov I.E."
+    }
+]
