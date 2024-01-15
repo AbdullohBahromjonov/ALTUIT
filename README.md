@@ -2,6 +2,8 @@
 
 #
 
+App Store link: https://apps.apple.com/uz/app/altuit-schedule/id6472249139
+
 Talabalar chun maxsus ishlab chiqilgan ALTUIT schedule ilovasi bilan darsni hech qachon o'tkazib yubormang! Akademik hayotingizni soddalashtiring va tartibli bo'ling.
 Asosiy xususiyatlar:
 1. ﻿﻿﻿Intuitiv jadval ko'rinishi:
