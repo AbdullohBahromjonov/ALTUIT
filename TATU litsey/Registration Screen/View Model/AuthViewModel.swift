@@ -48,7 +48,6 @@ class AuthViewModel: ObservableObject {
                 errorMessage = "Internetga ulanib bo‘lmadi. Internetga ulaning"
             default:
                 errorTitle = nil
-                print(error.localizedDescription)
             }
         }
     }
@@ -72,7 +71,6 @@ class AuthViewModel: ObservableObject {
                 errorMessage = "Internetga ulanib bo‘lmadi. Internetga ulaning"
             default:
                 errorTitle = nil
-                print(error.localizedDescription)
             }
         }
     }
@@ -130,7 +128,6 @@ class AuthViewModel: ObservableObject {
         if self.currentUser == nil {
             userSession = nil
         } else {
-            //alertError = "We could not find this user"
         }
     }
 }

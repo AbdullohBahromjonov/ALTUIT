@@ -3,48 +3,48 @@
         "weekday": "Dushanba",
         "subjects": [
             "Fizika",
-            "Veb dasturlash",
-            "Algebra"
+            "Kasbiy ta'lim",
+            "Algebra",
+            "Ingliz tili"
         ]
     },
     {
         "weekday": "Seshanba",
         "subjects": [
-            "Informatika",
             "Fizika",
-            "Algebra",
-            "O'zbek tili"
+            "O'zbekiston tarixi",
+            "Adabiyot"
         ]
     },
     {
         "weekday": "Chorshanba",
         "subjects": [
-            "O'zbekiston tarixi",
-            "Kasbiy ta'lim",
-            "Rus tili"
+            "Algebra",
+            "Fizika",
+            "CH.Q.B.T."
         ]
     },
     {
         "weekday": "Payshanba",
         "subjects": [
-            "Algebra",
-            "Geometriya",
-            "Fizika"
+            "Rus tili",
+            "Ona tili",
+            "Algebra"
         ]
     },
     {
         "weekday": "Juma",
         "subjects": [
-            "Geometriya",
-            "Adabiyot",
-            "Fizika"
+            "Fizika",
+            "Veb dasturlash",
+            "Geometriya"
         ]
     },
     {
         "weekday": "Shanba",
         "subjects": [
-            "Ingliz tili",
-            "CH.Q.B.T.",
+            "Geometriya",
+            "Kasbiy ta'lim",
             "Fizika"
         ]
     }

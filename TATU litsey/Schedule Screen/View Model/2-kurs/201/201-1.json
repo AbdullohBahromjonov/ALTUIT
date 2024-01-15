@@ -5,7 +5,6 @@
             "Algebra",
             "Veb dasturlash",
             "Fizika",
-            "O'zbek tili"
         ]
     },
     {
@@ -20,9 +19,9 @@
     {
         "weekday": "Chorshanba",
         "subjects": [
-            "O'zbek tili",
-            "Rus tili",
-            "Kasbiy ta'lim"
+            "O'zbekiston tarixi",
+            "Kasbiy ta'lim",
+            "Rus tili"
         ]
     },
     {
