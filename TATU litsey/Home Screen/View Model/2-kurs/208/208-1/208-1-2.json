@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Ingliz tili",
+        "startTime": "8:30",
+        "endTime": "9:50",
+        "room": "207",
+        "teacher": "Abduxalilova K."
+    },
+    {
+        "name": "Rus tili",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "room": "104",
+        "teacher": "Bekmetova N.B."
+    },
+    {
+        "name": "Geometriya",
+        "startTime": "11:50",
+        "endTime": "13:10",
+        "room": "102",
+        "teacher": "Ro'ziqulov S."
+    },
+    {
+        "name": "Ona tili",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "room": "301",
+        "teacher": "Mamarizayeva D.E."
+    }
+]

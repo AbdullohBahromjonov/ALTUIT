@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Fizika",
+    "startTime": "8:30",
+    "endTime": "9:50",
+    "room": "201",
+    "teacher": "Azimova G."
+  },
+  {
+    "name": "Algebra",
+    "startTime": "10:00",
+    "endTime": "11:20",
+    "room": "208",
+    "teacher": "Yo’ldashev B."
+  },
+  {
+    "name": "Kimyo",
+    "startTime": "11:50",
+    "endTime": "13:10",
+    "room": "101",
+    "teacher": "-"
+  },
+  {
+    "name": "Informatika",
+    "startTime": "13:20",
+    "endTime": "14:40",
+    "room": "217",
+    "teacher": "Rahmonov Sh."
+  }
+]

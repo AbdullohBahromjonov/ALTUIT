@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Ingliz tili",
+        "startTime": "8:30",
+        "endTime": "9:50",
+        "room": "203",
+        "teacher": "Mirabdullayeva D.O."
+    },
+    {
+        "name": "Nemis tili",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "room": "220",
+        "teacher": "Turdiyeva M."
+    },
+    {
+        "name": "Algebra",
+        "startTime": "11:50",
+        "endTime": "13:10",
+        "room": "313",
+        "teacher": "Abdullayev N."
+    }
+]

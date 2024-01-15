@@ -6,10 +6,21 @@
 //
 
 import SwiftUI
+import FirebaseCore
+
+class AppDelegate: NSObject, UIApplicationDelegate {
+  func application(_ application: UIApplication,
+                   didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey : Any]? = nil) -> Bool {
+    FirebaseApp.configure()
+    return true
+  }
+}
 
 @main
 struct TATU_litseyApp: App {
-    @AppStorage("startHomeScreen") var startHomeScreen = false
+    @UIApplicationDelegateAdaptor(AppDelegate.self) var delegate
+    
+    @StateObject var viewModel = AuthViewModel()
     
     init() {
         UINavigationBar.appearance().largeTitleTextAttributes = [
@@ -19,15 +30,13 @@ struct TATU_litseyApp: App {
         UINavigationBar.appearance().titleTextAttributes = [
             .foregroundColor : UIColor(Color.white)
         ]
+        UIAlertView().backgroundColor = UIColor(Color.black)
     }
     
     var body: some Scene {
         WindowGroup {
-            NavigationView {
-                WelcomeScreen(startHomeScreen: $startHomeScreen)
-                    .preferredColorScheme(.light)
-                    //.environment(\.locale, Locale(identifier: "UZ"))
-            }
+            ContentView()
+                .environmentObject(viewModel)
         }
     }
 }

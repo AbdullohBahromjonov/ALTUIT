@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Rus tili",
+        "startTime": "8:30",
+        "endTime": "9:50",
+        "room": "205",
+        "teacher": "Tadjibayeva G.K."
+    },
+    {
+        "name": "Geometriya",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "room": "306",
+        "teacher": "To'ymetov Sh.Sh."
+    },
+    {
+        "name": "Ingliz tili",
+        "startTime": "11:50",
+        "endTime": "13:10",
+        "room": "203",
+        "teacher": "Mirabdullayeva D.O."
+    },
+    {
+        "name": "Adabiyot",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "room": "205",
+        "teacher": "Tadjibayeva G.K."
+    }
+]

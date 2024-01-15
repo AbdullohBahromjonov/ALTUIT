@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Ingliz tili",
+        "startTime": "8:30",
+        "endTime": "9:50",
+        "room": "304",
+        "teacher": "Djalolova G.T."
+    },
+    {
+        "name": "O'zbekiston tarixi",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "room": "302",
+        "teacher": "Ivleva V.A."
+    },
+    {
+        "name": "Geometriya",
+        "startTime": "11:50",
+        "endTime": "13:10",
+        "room": "306",
+        "teacher": "To'ymetov Sh.Sh."
+    }
+]

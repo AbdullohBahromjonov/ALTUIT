@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Ingliz tili",
+        "startTime": "8:30",
+        "endTime": "9:50",
+        "room": "203",
+        "teacher": "Mirabdullayeva D.O."
+    },
+    {
+        "name": "O'zbekiston tarixi",
+        "startTime": "10:00",
+        "endTime": "11:20",
+        "room": "302",
+        "teacher": "Muzaffarov M."
+    },
+    {
+        "name": "Geometriya",
+        "startTime": "11:50",
+        "endTime": "13:10",
+        "room": "102",
+        "teacher": "Ro'ziqulov S."
+    },
+    {
+        "name": "Informatika",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "room": "217",
+        "teacher": "Rahmonov Sh."
+    }
+]

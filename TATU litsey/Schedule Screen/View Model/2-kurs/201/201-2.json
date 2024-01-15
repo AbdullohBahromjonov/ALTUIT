@@ -4,8 +4,7 @@
         "subjects": [
             "Fizika",
             "Veb dasturlash",
-            "Algebra",
-            "O'zbek tili"
+            "Algebra"
         ]
     },
     {
@@ -13,15 +12,16 @@
         "subjects": [
             "Informatika",
             "Fizika",
-            "Algebra"
+            "Algebra",
+            "O'zbek tili"
         ]
     },
     {
         "weekday": "Chorshanba",
         "subjects": [
-            "O'zbek tili",
-            "Rus tili",
-            "Kasbiy ta'lim"
+            "O'zbekiston tarixi",
+            "Kasbiy ta'lim",
+            "Rus tili"
         ]
     },
     {
@@ -29,8 +29,7 @@
         "subjects": [
             "Algebra",
             "Geometriya",
-            "Fizika",
-            "O'zbek tili"
+            "Fizika"
         ]
     },
     {

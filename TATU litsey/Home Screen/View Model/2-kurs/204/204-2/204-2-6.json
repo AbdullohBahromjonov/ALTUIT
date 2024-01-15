@@ -1,0 +1,23 @@
+[
+  {
+    "name": "O'zbekiston tarixi",
+    "startTime": "8:30",
+    "endTime": "9:50",
+    "room": "302",
+    "teacher": "Muzaffarov M"
+  },
+  {
+    "name": "Fizika",
+    "startTime": "10:00",
+    "endTime": "11:20",
+    "room": "201",
+    "teacher": "Azimova G."
+  },
+  {
+    "name": "CH.Q.B.T.",
+    "startTime": "11:50",
+    "endTime": "13:10",
+    "room": "207",
+    "teacher": "Xamdamov I.E."
+  }
+]
