@@ -22,5 +22,5 @@ Tartibda golish va stressni kamaytirish orqali akademik salohiyatingizni maksima
 
 <img align="left" alt="Java" width="200px" style="padding-right:10px;" src="https://github.com/AbdullohBahromjonov/ALTUIT/assets/90626932/f5b4d55e-2124-4c50-8832-63563033c226"/>
 <img align="left" alt="Java" width="200px" style="padding-right:10px;" src="https://github.com/AbdullohBahromjonov/ALTUIT/assets/90626932/21a557e3-186a-45ae-bdc8-a81633154302"/>
-<img align="top" alt="Java" width="200px" style="padding-bottom:10px;" src="https://github.com/AbdullohBahromjonov/ALTUIT/assets/90626932/ff24ad5f-e021-4261-ac92-b7c4304f1f31"/>
+<img align="left" alt="Java" width="200px" style="padding-right:10px;" src="https://github.com/AbdullohBahromjonov/ALTUIT/assets/90626932/ff24ad5f-e021-4261-ac92-b7c4304f1f31"/>
 <img align="left" alt="Java" width="200px" style="padding-right:10px;" src="https://github.com/AbdullohBahromjonov/ALTUIT/assets/90626932/c2a78912-8cf6-4f43-9a25-c408c8bdaac8"/>
